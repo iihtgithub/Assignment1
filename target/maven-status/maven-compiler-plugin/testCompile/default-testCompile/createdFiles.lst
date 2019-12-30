@@ -1,0 +1,5 @@
+com\main\TestCasesExecutor.class
+com\assignment\usertest\TestPatternFinder_Functional.class
+com\assignment\usertest\TestPatternFinder_ExceptionHandling.class
+com\assignment\usertest\TestUtil.class
+com\assignment\usertest\TestPatternFinder_Boundary.class
